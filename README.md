@@ -1,5 +1,5 @@
 - 💻 Desenvolvedor Front-end Jr
-- 👨‍🎓 Estou cursando Ciências da computação 
+- 👨‍🎓 Cursando Ciências da computação 
 - 🕶 Cursos: JavaScript, HTML, CSS, Python e Informática  
 <!---
 HenriqueAdriel/HenriqueAdriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
