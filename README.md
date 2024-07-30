@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HenriqueAdriel/HenriqueAdriel/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Social Media</p>
 
 ###
