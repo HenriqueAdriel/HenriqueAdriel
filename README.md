@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software developer<br>- I'm currently studying C#, English and data science<br>- In my free time, I like to work on projects and practice sports.</p>
+<p align="left">- Software developer<br>- I'm currently studying Data Science and English <br>- In my free time, I like to work on projects and practice sports.</p>
 
 ###
 
