@@ -1,8 +1,10 @@
-<h2 align="left">About me</h2>
+<h2 align="left">Henrique 👩🏻‍💻</h2>
 
 ###
 
-<p align="left">- Software developer<br>- I'm currently studying Data Science and English <br>- In my free time, I like to work on projects and practice sports.</p>
+<p align="left">- Estudante de Ciência da Computação no 6º período, gosto de tecnologia e desenvolvimento de software. Tenho foco no aprimoramento constante das minhas habilidades em programação, especialmente com JavaScript, Python, HTML e CSS.
+
+Tenho boa lógica de programação e sou dedicado a evoluir como desenvolvedor. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos práticos e seguir me desenvolvendo na área de tecnologia.</p>
 
 ###
 
